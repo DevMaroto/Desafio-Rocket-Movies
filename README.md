@@ -9,7 +9,7 @@ https://github.com/DevMaroto/Desafio-Rocket-Movies/assets/88672028/a3da312b-797d
 
 # Link do App
 
-https://desafio-rocket-movies.vercel.app/login
+https://desafio-rocket-movies.vercel.app/
 
 # React + Vite
 
