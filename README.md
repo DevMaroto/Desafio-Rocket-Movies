@@ -7,6 +7,10 @@ https://github.com/DevMaroto/Desafio-Rocket-Movies/assets/88672028/a3da312b-797d
 * npm run dev
 
 
+# Link do App
+
+https://desafio-rocket-movies.vercel.app/login
+
 # React + Vite
 
 Este modelo fornece uma configuração mínima para fazer o React funcionar no Vite com HMR e algumas regras ESLint.
